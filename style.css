@@ -1,0 +1,19 @@
+body {
+    text-align: center;
+    background-color: cyan;
+}
+
+.image-style {
+
+    height: 400px width: 800px;
+}
+
+h1 {
+    font-family: impact;
+    color: darkblue;
+}
+
+h3{
+    font-family: trebuchet;
+    color: blue;
+}
